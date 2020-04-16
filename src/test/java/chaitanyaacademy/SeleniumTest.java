@@ -21,5 +21,10 @@ public class SeleniumTest {
 	public void pageObjects() {
 		System.out.println("pageObjects");
 	}
+	//added change after pulling the code from branch
+	@Test
+	public void pageObjects1() {
+		System.out.println("pageObjects1");
+	}
 
 }
