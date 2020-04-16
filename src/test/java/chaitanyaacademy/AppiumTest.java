@@ -12,6 +12,12 @@ public class AppiumTest {
 	public void iosApps() {
 		System.out.println("iosApps");
 	}
+	
+	//added cahnges in branch develop
+	@Test
+	public void microsftApps() {
+		System.out.println("microsftApps");
+	}
 
 
 }

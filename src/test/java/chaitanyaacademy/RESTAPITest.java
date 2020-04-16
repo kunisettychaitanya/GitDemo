@@ -20,5 +20,10 @@ public class RESTAPITest {
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
 	}
+	//added cahnges in branch develop
+	@Test
+	public void deleteFacebook() {
+		System.out.println("deleteFacebook");
+	}
 
 }
