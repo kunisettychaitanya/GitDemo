@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-03T16:11:18Z" name="Command line suite" finished-at="2020-04-03T16:11:18Z" duration-ms="30">
+    <groups>
+    </groups>
+    <test started-at="2020-04-03T16:11:18Z" name="Command line test" finished-at="2020-04-03T16:11:18Z" duration-ms="30">
+      <class name="chaitanyaacademy.AppiumTest">
+        <test-method signature="iosApps()[pri:0, instance:chaitanyaacademy.AppiumTest@7b227d8d]" started-at="2020-04-03T16:11:18Z" name="iosApps" finished-at="2020-04-03T16:11:18Z" duration-ms="10" status="PASS">
+        </test-method>
+        <test-method signature="relativeAppAndroid()[pri:0, instance:chaitanyaacademy.AppiumTest@7b227d8d]" started-at="2020-04-03T16:11:18Z" name="relativeAppAndroid" finished-at="2020-04-03T16:11:18Z" duration-ms="0" status="PASS">
+        </test-method>
+      </class>
+      <class name="chaitanyaacademy.SeleniumTest">
+        <test-method signature="browserAutomation()[pri:0, instance:chaitanyaacademy.SeleniumTest@3901d134]" started-at="2020-04-03T16:11:18Z" name="browserAutomation" finished-at="2020-04-03T16:11:18Z" duration-ms="2" status="PASS">
+        </test-method>
+        <test-method signature="elementsUI()[pri:0, instance:chaitanyaacademy.SeleniumTest@3901d134]" started-at="2020-04-03T16:11:18Z" name="elementsUI" finished-at="2020-04-03T16:11:18Z" duration-ms="0" status="PASS">
+        </test-method>
+      </class>
+      <class name="chaitanyaacademy.RESTAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:chaitanyaacademy.RESTAPITest@7219ec67]" started-at="2020-04-03T16:11:18Z" name="deleteTwitter" finished-at="2020-04-03T16:11:18Z" duration-ms="0" status="PASS">
+        </test-method>
+        <test-method signature="postJira()[pri:0, instance:chaitanyaacademy.RESTAPITest@7219ec67]" started-at="2020-04-03T16:11:18Z" name="postJira" finished-at="2020-04-03T16:11:18Z" duration-ms="1" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
